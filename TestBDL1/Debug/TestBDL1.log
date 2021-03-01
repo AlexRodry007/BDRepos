@@ -1,0 +1,5 @@
+﻿  TestBDL1.cpp
+D:\source\repos\TestBDL1\TestBDL1\TestBDL1.cpp(498,9): warning C4101: ident: неиспользованная локальная переменная
+D:\source\repos\TestBDL1\TestBDL1\TestBDL1.cpp(349): warning C4715: File::ChooseHike: значение возвращается не при всех путях выполнения
+D:\source\repos\TestBDL1\TestBDL1\TestBDL1.cpp(237): warning C4715: Hike::ChooseCharacter: значение возвращается не при всех путях выполнения
+  TestBDL1.vcxproj -> D:\source\repos\TestBDL1\Debug\TestBDL1.exe
